@@ -1,3 +1,6 @@
 [
-  ["halo","hay siap kamu"]
+["halo","hay siap kamu"],
+["kamu berasal dari mana","indonesia"],
+["kamu berasal dari negara mana",1],
+["kamu berasal dari benua mana","asia"]
 ]
