@@ -658,5 +658,25 @@
     {
         "nama": "Yemen",
         "benua": "Asia"
+    },
+    {
+        "nama": "DR Congo",
+        "benua": "Africa"
+    },
+    {
+        "nama": "Myanmar",
+        "benua": "Asia"
+    },
+    {
+        "nama": "Ukraine",
+        "benua": "Europe"
+    },
+    {
+        "nama": "Venezuela",
+        "benua": "South America"
+    },
+    {
+        "nama": "Nepal",
+        "benua": "Asia"
     }
 ]
