@@ -334,5 +334,69 @@
     {
         "benua": "Africa",
         "nama": "Uzbekistan"
+    },
+    {
+        "benua": "South America",
+        "nama": "Colombia"
+    },
+    {
+        "benua": "North America",
+        "nama": "Cuba"
+    },
+    {
+        "benua": "South America",
+        "nama": "Peru"
+    },
+    {
+        "benua": "Asia",
+        "nama": "Vietnam"
+    },
+    {
+        "benua": "North America",
+        "nama": "Jamaica"
+    },
+    {
+        "benua": "South America",
+        "nama": "Chile"
+    },
+    {
+        "benua": "North America",
+        "nama": "Haiti"
+    },
+    {
+        "benua": "South America",
+        "nama": "Ecuador"
+    },
+    {
+        "benua": "Asia",
+        "nama": "Thailand"
+    },
+    {
+        "benua": "North America",
+        "nama": "Dominican Republic"
+    },
+    {
+        "benua": "South America",
+        "nama": "Bolivia"
+    },
+    {
+        "benua": "Asia",
+        "nama": "Iraq"
+    },
+    {
+        "benua": "Asia",
+        "nama": "Afghanistan"
+    },
+    {
+        "benua": "North America",
+        "nama": "Honduras"
+    },
+    {
+        "benua": "South America",
+        "nama": "Paraguay"
+    },
+    {
+        "benua": "Asia",
+        "nama": "Malaysia"
     }
 ]
