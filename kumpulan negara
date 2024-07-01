@@ -398,5 +398,121 @@
     {
         "benua": "Asia",
         "nama": "Malaysia"
+    },
+    {
+        "nama": "Albania",
+        "benua": "Europe"
+    },
+    {
+        "nama": "Andorra",
+        "benua": "Europe"
+    },
+    {
+        "nama": "Antigua and Barbuda",
+        "benua": "North America"
+    },
+    {
+        "nama": "Armenia",
+        "benua": "Asia"
+    },
+    {
+        "nama": "Azerbaijan",
+        "benua": "Asia"
+    },
+    {
+        "nama": "Bahamas",
+        "benua": "North America"
+    },
+    {
+        "nama": "Bahrain",
+        "benua": "Asia"
+    },
+    {
+        "nama": "Barbados",
+        "benua": "North America"
+    },
+    {
+        "nama": "Belarus",
+        "benua": "Europe"
+    },
+    {
+        "nama": "Belize",
+        "benua": "North America"
+    },
+    {
+        "nama": "Benin",
+        "benua": "Africa"
+    },
+    {
+        "nama": "Bhutan",
+        "benua": "Asia"
+    },
+    {
+        "nama": "Bosnia and Herzegovina",
+        "benua": "Europe"
+    },
+    {
+        "nama": "Botswana",
+        "benua": "Africa"
+    },
+    {
+        "nama": "Brunei",
+        "benua": "Asia"
+    },
+    {
+        "nama": "Bulgaria",
+        "benua": "Europe"
+    },
+    {
+        "nama": "Burundi",
+        "benua": "Africa"
+    },
+    {
+        "nama": "Cabo Verde",
+        "benua": "Africa"
+    },
+    {
+        "nama": "Cambodia",
+        "benua": "Asia"
+    },
+    {
+        "nama": "Central African Republic",
+        "benua": "Africa"
+    },
+    {
+        "nama": "Chad",
+        "benua": "Africa"
+    },
+    {
+        "nama": "Comoros",
+        "benua": "Africa"
+    },
+    {
+        "nama": "Congo (Brazzaville)",
+        "benua": "Africa"
+    },
+    {
+        "nama": "Congo (Kinshasa)",
+        "benua": "Africa"
+    },
+    {
+        "nama": "Costa Rica",
+        "benua": "North America"
+    },
+    {
+        "nama": "Croatia",
+        "benua": "Europe"
+    },
+    {
+        "nama": "Cyprus",
+        "benua": "Asia"
+    },
+    {
+        "nama": "Djibouti",
+        "benua": "Africa"
+    },
+    {
+        "nama": "Dominica",
+        "benua": "North America"
     }
 ]
