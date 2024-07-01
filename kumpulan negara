@@ -514,5 +514,149 @@
     {
         "nama": "Dominica",
         "benua": "North America"
+    },
+    {
+        "nama": "Equatorial Guinea",
+        "benua": "Africa"
+    },
+    {
+        "nama": "Eswatini",
+        "benua": "Africa"
+    },
+    {
+        "nama": "Fiji",
+        "benua": "Oceania"
+    },
+    {
+        "nama": "Gambia",
+        "benua": "Africa"
+    },
+    {
+        "nama": "Grenada",
+        "benua": "North America"
+    },
+    {
+        "nama": "Guinea-Bissau",
+        "benua": "Africa"
+    },
+    {
+        "nama": "Guyana",
+        "benua": "South America"
+    },
+    {
+        "nama": "Iceland",
+        "benua": "Europe"
+    },
+    {
+        "nama": "Kiribati",
+        "benua": "Oceania"
+    },
+    {
+        "nama": "Lesotho",
+        "benua": "Africa"
+    },
+    {
+        "nama": "Liechtenstein",
+        "benua": "Europe"
+    },
+    {
+        "nama": "Maldives",
+        "benua": "Asia"
+    },
+    {
+        "nama": "Malta",
+        "benua": "Europe"
+    },
+    {
+        "nama": "Marshall Islands",
+        "benua": "Oceania"
+    },
+    {
+        "nama": "Micronesia",
+        "benua": "Oceania"
+    },
+    {
+        "nama": "Monaco",
+        "benua": "Europe"
+    },
+    {
+        "nama": "Nauru",
+        "benua": "Oceania"
+    },
+    {
+        "nama": "Palau",
+        "benua": "Oceania"
+    },
+    {
+        "nama": "Papua New Guinea",
+        "benua": "Oceania"
+    },
+    {
+        "nama": "Saint Kitts and Nevis",
+        "benua": "North America"
+    },
+    {
+        "nama": "Saint Lucia",
+        "benua": "North America"
+    },
+    {
+        "nama": "Saint Vincent and the Grenadines",
+        "benua": "North America"
+    },
+    {
+        "nama": "Samoa",
+        "benua": "Oceania"
+    },
+    {
+        "nama": "San Marino",
+        "benua": "Europe"
+    },
+    {
+        "nama": "Sao Tome and Principe",
+        "benua": "Africa"
+    },
+    {
+        "nama": "Seychelles",
+        "benua": "Africa"
+    },
+    {
+        "nama": "Singapore",
+        "benua": "Asia"
+    },
+    {
+        "nama": "Solomon Islands",
+        "benua": "Oceania"
+    },
+    {
+        "nama": "Suriname",
+        "benua": "South America"
+    },
+    {
+        "nama": "Timor-Leste",
+        "benua": "Asia"
+    },
+    {
+        "nama": "Tonga",
+        "benua": "Oceania"
+    },
+    {
+        "nama": "Trinidad and Tobago",
+        "benua": "North America"
+    },
+    {
+        "nama": "Tuvalu",
+        "benua": "Oceania"
+    },
+    {
+        "nama": "Vanuatu",
+        "benua": "Oceania"
+    },
+    {
+        "nama": "Vatican City",
+        "benua": "Europe"
+    },
+    {
+        "nama": "Yemen",
+        "benua": "Asia"
     }
 ]
