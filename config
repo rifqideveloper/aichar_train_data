@@ -1,4 +1,6 @@
-[
+[{
+  "data":"https://rifqideveloper.github.io/aichar_train_data/kota indonesia"
+},
 {
   "data":"https://rifqideveloper.github.io/aichar_train_data/kumpulan negara",
   "input":"nama",
@@ -6,8 +8,7 @@
   "in-0":["",""],
   "out-0":["",""],
   "out-1":["",""],
-  "output":"benua"
-  
+  "output":"benua"  
 },
 {"data":"https://rifqideveloper.github.io/aichar_train_data/training_data"}
 ]
