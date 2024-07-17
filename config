@@ -1,4 +1,14 @@
-[{
+[
+{
+  "data":"https://rifqideveloper.github.io/aichar_train_data/nama music",
+  "input":"music",
+  "in-1":[" dinyanyikan oleh"," sung by"],
+  "in-0":["",""],
+  "out-0":["",""],
+  "out-1":["",""],
+  "output":"singer" 
+},
+{
   "data":"https://rifqideveloper.github.io/aichar_train_data/nama kota",
   "input":"city",
   "in-1":[" berada dinegara"," is in"],
