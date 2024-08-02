@@ -35,5 +35,5 @@
   "out-1":["",""],
   "output":"benua"  
 },
-{"data":"https://rifqideveloper.github.io/aichar_train_data/training_data","nosave":True}
+{"data":"https://rifqideveloper.github.io/aichar_train_data/training_data","nosave":true}
 ]
