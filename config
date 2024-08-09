@@ -35,5 +35,11 @@
   "out-1":["",""],
   "output":"benua"  
 },
+{
+    "data":"https://rifqideveloper.github.io/aichar_train_data/nama kota",
+    "millions_of_questions":"nama kota di [input]",
+    "input":"country",
+    "output":"city"
+},
 {"data":"https://rifqideveloper.github.io/aichar_train_data/training_data","nosave":true}
 ]
