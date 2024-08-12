@@ -1,95 +1,95 @@
-City,	Province,	Region
+City,Province,Region
 jakata,Special Region of Jakarta,Java
-Surabaya,	East Java,	Java
-Bekasi,	West Java,	Java
-Bandung,	West Java,	Java
-Medan,	North Sumatra,	Sumatra
-Depok,	West Java,	Java
-Tangerang,	Banten,	Java
-Palembang,	South Sumatra
-Semarang,	Central Java,	Java
-Makassar,	South Sulawesi,	Sulawesi
-South Tangerang,	Banten,	Java
-Batam,	Riau Islands,	Sumatra
-Bandar Lampung,	Lampung,	Sumatra
-Bogor	,West Java,	Java
-Pekanbaru,	Riau,	Sumatra
-Padang	,West Sumatra,	Sumatra	
-Malang	,East Java,	Java
-Samarinda,	East Kalimantan,	Kalimantan	
-Denpasar,	Bali,	Lesser Sunda Islands
-Tasikmalaya,	West Java,	Java
-Serang,	Banten	,Java	
-Balikpapan,	East Kalimantan	,Kalimantan
-Pontianak,	West Kalimantan,	Kalimantan
-Banjarmasin,	South Kalimantan,	Kalimantan
-Jambi,	Jambi,	Sumatra
-Cimahi,	West Java	,Java	
-Surakarta	,Central Java,	Java
-Manado	,North Sulawesi,	Sulawesi
-Kupang	,East Nusa Tenggara,	Lesser Sunda Islands
-Cilegon	,Banten,	Java
-Mataram	,West Nusa Tenggara,	Lesser Sunda Islands
-Jayapura	,Papua	,Western New Guinea
-Bengkulu	,Bengkulu,	Sumatra
-Yogyakarta	,Special Region of Yogyakarta,	Java
-Palu	,Central Sulawesi	,Sulawesi
-Ambon	,Maluku	,Maluku Islands	
-Sukabumi	,West Java,	Java
-Kendari	,Southeast Sulawesi,	Sulawesi
-Cirebon,	West Java,	Java
-Dumai,	Riau,	Sumatra
-Pekalongan,	Central Java,	Java
-Palangka, Raya	Central Kalimantan
-Binjai	,North Sumatra	,Sumatra
-Kediri	,East Java,	Java
-Sorong	,Southwest Papua,	Western New Guinea
-Tegal,	Central Java,	Java
-Pematangsiantar	,North Sumatra,	Sumatra	
-Banjarbaru	,South Kalimantan,	Kalimantan
-Banda Aceh	,Aceh	,Sumatra
-Tarakan	,North Kalimantan	,Kalimantan
-Probolinggo,	East Java	,Java
-Singkawang,	West Kalimantan,	Kalimantan
-Lubuklinggau,	South Sumatra,	Sumatra	
-Tanjungpinang	,Riau Islands	,Sumatra	
-Bitung	,North Sulawesi	,Sulawesi
-Padang Sidempuan,	North Sumatra	,Sumatra	
-Pangkalpinang	,Bangka Belitung Islands,	Sumatra
-Batu	,East Java,	Java
-Pasuruan	,East Java,	Java
-Ternate,	North Maluku	,Maluku Islands
-Banjar,	West Java,Java
-Gorontalo	,Gorontalo	,Sulawesi
-Madiun	,East Java,	Java	
-Prabumulih,	South Sumatra	,Sumatra
-Salatiga	,Central Java,	Java
-Lhokseumawe,	Aceh	,Sumatra
-Langsa	,Aceh	,Sumatra
-Palopo	,South Sulawesi,	Sulawesi
-Bontang	,East Kalimantan,Kalimantan
-Tanjungbalai,	North Sumatra	,Sumatra
-Tebing Tinggi,	North Sumatra,	Sumatra	
-Metro,	Lampung,	Sumatra
-Baubau	,Southeast Sulawesi,	Sulawesi
-Bima	,West Nusa Tenggara,	Lesser Sunda Islands
-Parepare	,South Sulawesi,	Sulawesi	
-Blitar	,East Java	,Java
-Pagar Alam	,South Sumatra	,Sumatra	
-Payakumbuh,	West Sumatra,	Sumatra	
-Gunungsitoli	,North Sumatra,	Sumatra	
-Mojokerto,	East Java,	Java
-Kotamobagu,	North Sulawesi,	Sulawesi
-Magelang	,Central Java,	Java
-Bukittinggi	,West Sumatra	,Sumatra
-Tidore	,North Maluku,	Maluku Islands
-Tomohon,	North Sulawesi,	Sulawesi	
-Sungai Penuh,	Jambi,	Sumatra
-Pariaman,	West Sumatra	,Sumatra	
-Subulussalam,	Aceh	,Sumatra
-Sibolga,	North Sumatra	,Sumatra
-Tual,	Maluku,	Maluku Islands
-Solok,	West Sumatra	,Sumatra
-Sawahlunto,	West Sumatra,	Sumatra
-Padang Panjang	,West Sumatra,	Sumatra
-Sabang,	Aceh,	Sumatra
+Surabaya,East Java,Java
+Bekasi,West Java,Java
+Bandung,West Java,Java
+Medan,North Sumatra,Sumatra
+Depok,West Java,Java
+Tangerang,Banten,Java
+Palembang,South Sumatra
+Semarang,Central Java,Java
+Makassar,South Sulawesi,Sulawesi
+South Tangerang,Banten,Java
+Batam,Riau Islands,Sumatra
+Bandar Lampung,Lampung,Sumatra
+Bogor,West Java,Java
+Pekanbaru,Riau,Sumatra
+Padang,West Sumatra,Sumatra
+Malang,East Java,Java
+Samarinda,East Kalimantan,Kalimantan
+Denpasar,Bali,Lesser Sunda Islands
+Tasikmalaya,West Java,Java
+Serang,Banten,Java
+Balikpapan,East Kalimantan,Kalimantan
+Pontianak,West Kalimantan,Kalimantan
+Banjarmasin,South Kalimantan,Kalimantan
+Jambi,Jambi,Sumatra
+Cimahi,West Java,Java
+Surakarta,Central Java,Java
+Manado,North Sulawesi,Sulawesi
+Kupang,East Nusa Tenggara,Lesser Sunda Islands
+Cilegon,Banten,Java
+Mataram,West Nusa Tenggara,Lesser Sunda Islands
+Jayapura,Papua,Western New Guinea
+Bengkulu,Bengkulu,Sumatra
+Yogyakarta,Special Region of Yogyakarta,Java
+Palu,Central Sulawesi,Sulawesi
+Ambon,Maluku,Maluku Islands
+Sukabumi,West Java,Java
+Kendari,Southeast Sulawesi,Sulawesi
+Cirebon,West Java,Java
+Dumai,Riau,Sumatra
+Pekalongan,Central Java,Java
+Palangka, RayaCentral Kalimantan
+Binjai,North Sumatra,Sumatra
+Kediri,East Java,Java
+Sorong,Southwest Papua,Western New Guinea
+Tegal,Central Java,Java
+Pematangsiantar,North Sumatra,Sumatra
+Banjarbaru,South Kalimantan,Kalimantan
+Banda Aceh,Aceh,Sumatra
+Tarakan,North Kalimantan,Kalimantan
+Probolinggo,East Java,Java
+Singkawang,West Kalimantan,Kalimantan
+Lubuklinggau,South Sumatra,Sumatra
+Tanjungpinang,Riau Islands,Sumatra
+Bitung,North Sulawesi,Sulawesi
+Padang Sidempuan,North Sumatra,Sumatra
+Pangkalpinang,Bangka Belitung Islands,Sumatra
+Batu,East Java,Java
+Pasuruan,East Java,Java
+Ternate,North Maluku,Maluku Islands
+Banjar,West Java,Java
+Gorontalo,Gorontalo,Sulawesi
+Madiun,East Java,Java
+Prabumulih,South Sumatra,Sumatra
+Salatiga,Central Java,Java
+Lhokseumawe,Aceh,Sumatra
+Langsa,Aceh,Sumatra
+Palopo,South Sulawesi,Sulawesi
+Bontang,East Kalimantan,Kalimantan
+Tanjungbalai,North Sumatra,Sumatra
+Tebing Tinggi,North Sumatra,Sumatra
+Metro,Lampung,Sumatra
+Baubau,Southeast Sulawesi,Sulawesi
+Bima,West Nusa Tenggara,Lesser Sunda Islands
+Parepare,South Sulawesi,Sulawesi
+Blitar,East Java,Java
+Pagar Alam,South Sumatra,Sumatra
+Payakumbuh,West Sumatra,Sumatra
+Gunungsitoli,North Sumatra,Sumatra
+Mojokerto,East Java,Java
+Kotamobagu,North Sulawesi,Sulawesi
+Magelang,Central Java,Java
+Bukittinggi,West Sumatra,Sumatra
+Tidore,North Maluku,Maluku Islands
+Tomohon,North Sulawesi,Sulawesi
+Sungai Penuh,Jambi,Sumatra
+Pariaman,West Sumatra,Sumatra
+Subulussalam,Aceh,Sumatra
+Sibolga,North Sumatra,Sumatra
+Tual,Maluku,Maluku Islands
+Solok,West Sumatra,Sumatra
+Sawahlunto,West Sumatra,Sumatra
+Padang Panjang,West Sumatra,Sumatra
+Sabang,Aceh,Sumatra
